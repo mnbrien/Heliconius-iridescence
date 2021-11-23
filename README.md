@@ -17,8 +17,8 @@
 
 3. Linkage map files for H. erato analysis
 - erato_f2.csv. Colour data for 5 F2 families
-- erato_bc.csv.Colour data for the backcross only
-- erato_all.csv. Ccolour data for all families
+- erato_bc.csv. Colour data for the backcross only
+- erato_all.csv. Colour data for all families
 - erato_saxs.csv. USAXS data for the EC17 brood only
 
  
