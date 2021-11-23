@@ -21,6 +21,8 @@
 - erato_all.csv. Colour data for all families
 - erato_saxs.csv. USAXS data for the EC17 brood only
 
+
+Genomic sequence data from the crosses are deposited in the European Nucleotide Archive under project number PRJEB38330. Photographs of all samples can be found at https://doi.org/10.5281/zenodo.3799188. 
  
  
  
